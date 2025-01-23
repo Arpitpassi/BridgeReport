@@ -44,7 +44,7 @@
 
 ### [Orbiter Finance](https://orbiter.finance/)
 - **Strengths**
-  - Extensive network coverage allowing a dozen on chains and tokens making it a experience to bridge anything
+  - Extensive network coverage allowing a dozens of chains and tokens making it a great experience to bridge anything
 - **Limitations**
   - Highest gas fees among tested bridges 
 - **Speed**: One of the fastest among the tested bridges
