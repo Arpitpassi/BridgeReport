@@ -137,15 +137,15 @@ Solana bridging remains a work in progress across platforms, with common challen
 8. Stargate 
 6. EVM-to-AO Bridge
 
-### User Interface
-8. EVM-to-AO Bridge
-1. Squid 
-2. Stargate 
-3. Defiway 
-4. Mayan 
-5. LayerSwap 
+### User Interface (Based on functionality, ease of use and design)
+1. LayerSwap 
+2. EVM-to-AO Bridge
+3. Stargate 
+4. Defiway 
+5. Squid 
 6. Hop 
-7. Portal 
+7. Mayan
+8. Portal 
 
 
 ### Gas Fees (Most Economical to Highest)
@@ -153,7 +153,7 @@ Solana bridging remains a work in progress across platforms, with common challen
 2. Squid (0.023358 USDC) 
 3. LayerSwap (0.075528 USDC) 
 4. Defiway (0.159 USDC) 
-- *EVM-to-AO Bridge:Lowest fees among all the bridges tested. Amounts to basically nothing. 
+- *EVM-to-AO Bridge:Lowest fees among all the bridges tested. 
 
 ### Security & Privacy
 1. EVM-to-AO Bridge (ZK proofs) 
@@ -198,4 +198,4 @@ Based on the analysis, an effective crypto bridge should:
 The **EVM-to-AO Bridge** demonstrates how cutting-edge interoperability can be achieved through: 
 - **ZK-Proof Validation**: Ensures trustless transfers without relying on third-party validators 
 - **RISC-Z Optimization**: Enhances execution efficiency for EVM contracts on non-EVM chains like AO 
-- **Unified Tooling**: Tools like Steel for verification simplify cross-chain interactions, setting a benchmark for future bridges 
+
