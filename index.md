@@ -92,7 +92,7 @@
   - No time estimates 
 - **Speed**: Above average 
 
-###Special Note on Bridge Security of the above mentioned bridges
+### Special Note on Bridge Security of the above mentioned bridges
 - Most non-ZK bridges rely on centralized validators or multisig committees, introducing risks like collusion and single points of failure (e.g., Wormhole’s $325M exploit in 2022). While some use decentralized networks (e.g., Stargate’s LayerZero), their security depends on external assumptions. 
 
 ## Special Note on Solana Integration of the most popular bridges above.
