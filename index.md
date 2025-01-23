@@ -40,7 +40,7 @@
 - **Limitations**
   - Limited network support (mainly ETH and Polygon) 
 - **Speed**: Good 
-- **User Experience**: Polished, simple to use but does not offer enough bridging option.
+- **User Experience**: Polished, simple to use but does not offer enough bridging options
 
 ### [Orbiter Finance](https://orbiter.finance/)
 - **Strengths**
