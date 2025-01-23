@@ -83,7 +83,7 @@
 - **Speed**: Variable (user-controlled) 
 - **User Experience**: Highly intuitive 
 
-### [Defiway]((https://defiway.com/bridge/))
+### [Defiway](https://defiway.com/bridge/)
 - **Strengths**
   - Clean, functional UI 
   - Good network availability 
