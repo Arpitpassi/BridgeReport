@@ -14,8 +14,7 @@
 
 ### [Portal (Wormhole-powered)](https://www.portalbridge.com/)
 - **Strengths**
-  - Very efficient for EVM chains 
-  - Fast transaction speeds
+  - Fast transaction speeds for EVM L2 chains 
   - Good chain and token compatibility 
   - Cost-effective, especially for BSC 
 - **Solana Experience**
