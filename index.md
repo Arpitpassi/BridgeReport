@@ -108,11 +108,12 @@ Solana bridging remains a work in progress across platforms, with common challen
 ### Simplicity of swapping your tokens on the get go.
 1. LayerSwap 
 2. Hop 
-3. Portal 
-4. Defiway 
-5. Mayan 
-6. Stargate 
-7. Squid 
+3. Portal
+4. A0 Zk bridge
+5. Defiway 
+6. Mayan 
+7. Stargate 
+8. Squid 
 
 ### Transaction Speed (Can be a subjective experince for different chain speeds and different demand times. Overall, speeds were tested by bridging usdc from Bnb chain to polygon) 
 1. Mayan  
@@ -121,16 +122,18 @@ Solana bridging remains a work in progress across platforms, with common challen
 4. LayerSwap 
 5. Defiway  
 6. Squid 
-7. Stargate 
+7. Stargate
+8. A0 Zk bridge 
 
 ### User Interface (Based on functionality, ease of use and design)
-1. LayerSwap 
-2. Stargate 
-3. Defiway 
-4. Squid 
-5. Hop 
-6. Mayan
-7. Portal 
+1. LayerSwap
+2. A0 Zk bridge
+3. Stargate 
+4. Defiway 
+5. Squid 
+6. Hop 
+7. Mayan
+8. Portal 
 
 ### Gas Fees (Most Economical to Highest)
 1. Mayan (~0.016 USDC) 
