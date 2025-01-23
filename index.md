@@ -56,7 +56,7 @@
   - Engaging design with animations 
 - **Limitations**
   - Buggy UI elements 
-  - Interface needs refinement but overall info about transaction status is displayed very well
+  - Interface needs refinement but overall it is intuitive, functional and info about transaction status is displayed very well as it progresses
 - **Speed**: Variable 
 
 ### [Stargate](https://stargate.finance/bridge)
