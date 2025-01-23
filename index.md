@@ -44,8 +44,7 @@
 
 ### [Orbiter Finance](https://orbiter.finance/)
 - **Strengths**
-  - Extensive network coverage 
-  - Fast transaction speeds
+  - Extensive network coverage allowing a dozen on chains and tokens making it a experience to bridge anything
 - **Limitations**
   - Highest gas fees among tested bridges 
 - **Speed**: One of the fastest among the tested bridges
@@ -115,12 +114,12 @@ Solana bridging remains a work in progress across platforms, with common challen
 6. Stargate 
 7. Squid 
 
-### Transaction Speed 
-1. Mayan 
+### Transaction Speed (Can be a subjective experince for different chain speeds and different demand times. Overall, speeds were tested by bridging usdc from Bnb chain to polygon) 
+1. Mayan  
 2. Orbiter Finance 
 3. Portal 
-4. Defiway 
-5. LayerSwap 
+4. LayerSwap 
+5. Defiway  
 6. Squid 
 7. Stargate 
 
