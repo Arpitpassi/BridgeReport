@@ -21,15 +21,15 @@
   - Higher gas fees compared to LayerSwap 
   - Quick estimated completion times 
 - **Speed**: Fast 
-- **Fee Structure**: Competitive for EVM, higher for Solana 
+- **Fee Structure**: Competitive for EVM L2 chains, higher for Solana 
 
 ### [Mayan (Wormhole-powered)](https://mayan.finance/)
 - **Strengths**
-  - Fastest transaction speeds in testing 
-  - Clean user interface 
+  - Fastest transaction speeds while testing all bridges
+  - Clean user interface minimal design
   - Refueling capability to ensure gas fee availability after bridging the token 
 - **Limitations**
-  - Wallet connectivity issues 
+  - Wallet connectivity issues with solana
 - **Speed**: Very Fast 
 - **Overall Experience**: Works for what it says 
 
@@ -40,15 +40,15 @@
 - **Limitations**
   - Limited network support (mainly ETH and Polygon) 
 - **Speed**: Good 
-- **User Experience**: Polished 
+- **User Experience**: Polished, simple to use but does not offer enough bridging option.
 
 ### [Orbiter Finance](https://orbiter.finance/)
 - **Strengths**
   - Extensive network coverage 
-  - Fast transaction speeds 
+  - Fast transaction speeds
 - **Limitations**
   - Highest gas fees among tested bridges 
-- **Speed**: Fast 
+- **Speed**: One of the fastest among the tested bridges
 
 ### [Squid Bridge](https://app.squidrouter.com/)
 - **Strengths**
@@ -57,7 +57,7 @@
   - Engaging design with animations 
 - **Limitations**
   - Buggy UI elements 
-  - Interface needs refinement 
+  - Interface needs refinement but overall info about transaction status is displayed very well
 - **Speed**: Variable 
 
 ### [Stargate](https://stargate.finance/bridge)
@@ -74,7 +74,7 @@
 
 ### [Defiway](https://defiway.com/bridge/)
 - **Strengths**
-  - Clean, functional UI 
+  - Clean, functional UI to just get the job done with ease
   - Good network availability 
   - Refueling capability to ensure gas fee availability 
 - **Limitations**
@@ -100,7 +100,7 @@ Solana bridging remains a work in progress across platforms, with common challen
 - **Limitations**
   - Proof generation may add marginal latency for complex transactions 
 - **Speed**: Fast
-- **Security**: Highest (ZK-proof validated) 
+- **Security**: Highest (ZK-proof validated) making it the most secure bridge tested
 
 ---
 
