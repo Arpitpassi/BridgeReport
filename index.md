@@ -71,7 +71,7 @@
   - Interface needs refinement 
 - **Speed**: Variable 
 
-### [Stargate](https://stargate.finance/)
+### [Stargate](https://stargate.finance/bridge)
 - **Strengths**
   - Sleek interface 
   - Comprehensive information display for easy swapping and knowing about the status of your transaction 
