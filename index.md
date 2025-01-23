@@ -118,37 +118,37 @@ Solana bridging remains a work in progress across platforms, with common challen
 ## Rankings
 
 ### Simplicity
-1. [LayerSwap](https://layerswap.io/) 
-2. [Hop](https://hop.exchange/) 
-3. [Portal](https://www.portalbridge.com/) 
-4. [Defiway](https://defiway.com/) 
-5. [Mayan](https://mayan.finance/) 
-6. [Stargate](https://stargate.finance/) 
-7. [Squid](https://app.squidrouter.com/) 
+1. LayerSwap 
+2. Hop 
+3. Portal 
+4. Defiway 
+5. Mayan 
+6. Stargate 
+7. Squid 
 
 ### Transaction Speed
-1. [Mayan](https://mayan.finance/) 
-2. [Orbiter Finance](https://orbiter.finance/) 
-3. [Portal](https://www.portalbridge.com/) 
-4. [Defiway](https://defiway.com/) 
-5. [LayerSwap](https://layerswap.io/) 
-6. [Squid](https://app.squidrouter.com/) 
-7. [Stargate](https://stargate.finance/) 
+1. Mayan 
+2. Orbiter Finance 
+3. Portal 
+4. Defiway 
+5. LayerSwap 
+6. Squid 
+7. Stargate 
 
 ### User Interface (Based on functionality, ease of use and design)
-1. [LayerSwap](https://layerswap.io/) 
-2. [Stargate](https://stargate.finance/) 
-3. [Defiway](https://defiway.com/) 
-4. [Squid](https://app.squidrouter.com/) 
-5. [Hop](https://hop.exchange/) 
-6. [Mayan](https://mayan.finance/)
-7. [Portal](https://www.portalbridge.com/) 
+1. LayerSwap 
+2. Stargate 
+3. Defiway 
+4. Squid 
+5. Hop 
+6. Mayan
+7. Portal 
 
 ### Gas Fees (Most Economical to Highest)
-1. [Mayan](https://mayan.finance/) (~0.016 USDC) 
-2. [Squid](https://app.squidrouter.com/) (0.023358 USDC) 
-3. [LayerSwap](https://layerswap.io/) (0.075528 USDC) 
-4. [Defiway](https://defiway.com/) (0.159 USDC) 
+1. Mayan (~0.016 USDC) 
+2. Squid (0.023358 USDC) 
+3. LayerSwap (0.075528 USDC) 
+4. Defiway (0.159 USDC) 
 
 ### Security & Privacy
 1. A0 Zero Knowledge EVM Bridge (ZK proofs) 
