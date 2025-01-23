@@ -1,15 +1,5 @@
 # Comprehensive Analysis of Cryptocurrency Bridges
 
-## Evaluation Criteria
-1. **Simplicity** - Ease of use and accessibility 
-2. **Transaction Time** - Speed of bridge transfer 
-3. **User Interface** - Design and functionality 
-4. **Gas Fees** - Cost effectiveness 
-5. **Information and Live Updates** - Transaction transparency 
-6. **Security & Privacy** - Use of advanced cryptographic methods 
-
----
-
 ## Bridge Analysis
 
 ### [LayerSwap](https://layerswap.io/)
@@ -97,7 +87,7 @@
 
 ## Special Note on Solana Integration of the most popular bridges above.
 Solana bridging remains a work in progress across platforms, with common challenges including:
-- Wallet compatibility issues (especially with Solflare)
+- Wallet compatibility issues (especially with Solflare in Mayan Finance)
 - Inconsistent user experience
 - Limited wallet support majorly solved by using phantom but a bad experience for users of wallets other than solflare.
 
@@ -117,7 +107,7 @@ Solana bridging remains a work in progress across platforms, with common challen
 
 ## Rankings
 
-### Simplicity
+### Simplicity of swapping your tokens on the get go.
 1. LayerSwap 
 2. Hop 
 3. Portal 
@@ -126,7 +116,7 @@ Solana bridging remains a work in progress across platforms, with common challen
 6. Stargate 
 7. Squid 
 
-### Transaction Speed
+### Transaction Speed 
 1. Mayan 
 2. Orbiter Finance 
 3. Portal 
@@ -148,18 +138,14 @@ Solana bridging remains a work in progress across platforms, with common challen
 1. Mayan (~0.016 USDC) 
 2. Squid (0.023358 USDC) 
 3. LayerSwap (0.075528 USDC) 
-4. Defiway (0.159 USDC) 
-
-### Security & Privacy
-1. A0 Zero Knowledge EVM Bridge (ZK proofs) 
-Eliminating Trust Assumptions: No validators, no multisig—just math.
-Enabling Private Cross-Chain Interactions: A rarity in today’s transparent bridges.
+4. Defiway (0.159 USDC)
+5. AO Zk bridge Bridge:Lowest fees among all the bridges tested. Amounts to basically nothing. 
 
 ---
 
-## What Makes an Effective Crypto Bridge
+## What made the above bridges an Effective Crypto Bridge
 
-Based on the analysis, an effective crypto bridge should:
+Based on the analysis, an effective crypto bridge should
 
 1. **Prioritize User Experience**
    - Clear, intuitive interface 
